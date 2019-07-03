@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>briefcase</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Bay-Area_Landing-page" transform="translate(-392.000000, -309.000000)" stroke="#20CD84" stroke-width="1.33333333">
+            <g id="header">
+                <g id="Group-3" transform="translate(269.000000, 307.000000)">
+                    <g id="Group-5" transform="translate(124.000000, 0.000000)">
+                        <g id="briefcase" transform="translate(0.000000, 3.000000)">
+                            <rect id="Rectangle-path" x="0" y="3" width="13" height="9" rx="1.33333333"></rect>
+                            <path d="M9,12 L9,1.33333333 C9,0.596953667 8.44035594,0 7.75,0 L5.25,0 C4.55964406,0 4,0.596953667 4,1.33333333 L4,12" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

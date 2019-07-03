@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Landing-page" transform="translate(-269.000000, -55.000000)" stroke="#F3F3F3" stroke-width="2">
+            <g id="header">
+                <g id="Group-7" transform="translate(270.000000, 56.000000)">
+                    <g id="Group">
+                        <circle id="Oval" cx="15" cy="25" r="15"></circle>
+                        <circle id="Oval" cx="11.25" cy="26.249" r="3.75"></circle>
+                        <rect id="Rectangle-path" x="20" y="0" width="20" height="20"></rect>
+                        <polygon id="Shape" points="35 29.999 30 37.498 40 37.498"></polygon>
+                        <path d="M0,0 L15,15 L0,0 Z" id="Shape"></path>
+                        <path d="M35,4.999 L30,9.9995 L35,4.999 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
